@@ -1,2 +1,2 @@
 # glowing-waddle
-School projects
+School project
