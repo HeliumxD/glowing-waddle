@@ -24,6 +24,7 @@ Im Video haben sie gesehen, wie ich diese Technik erfolgreich ausgeführt habe.
 ## Reflektion zum Arbeitsprozess
 Das Lernen dieser Technik lief ziemlich gut und schon nach ein paar Stunden konnte ich es. Sie ist sehr nützlich und ich würde es jedem empfehlen dies zulernen.
 Leider bin ich noch inkonsistent und falle oft runter.
+
 VBV: Um dieses Problem zu beheben, werde ich mich auch mal auf einen spezialisierten Bridging Server gehen und dies dort täglich üben.
 
 (P.S. Das Video ist nicht von mir)
