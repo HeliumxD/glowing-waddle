@@ -1,3 +1,6 @@
+## Lernbericht
+Nicola Karrer
+
 ## Einleitung
 Ich habe in den Ferien verschiedene *Bridging* Methoden in Minecraft kennengelernt und ausprobiert.
 ## Was habe ich gelernt?
