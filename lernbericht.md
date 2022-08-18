@@ -1,6 +1,8 @@
+## Einleitung
 Ich habe in den Ferien verschiedene *Bridging* Methoden in Minecraft kennengelernt und ausprobiert.
+## Was habe ich gelernt?
 Die *Fast Bridging* Methode gelingt mir bis jetzt am besten.
-
+## Beschreibung
 Minecraft ist ein Spiel, dass die echte Welt in Blöcken darstellt. Dazu gibt es viele Server, wo die Ersteller verschiedene Sachen anbieten können.
 Für mich ist Hypixel der beste Server mit dem Spielmodus *Bedwars*. In diesem Spielmodus ist es wichtig, dass man sich schnell zu anderen Inseln bauen kann,
 um Ressourcen zu sammeln oder die Gegner zu vernichten. Für das baut man eine Brücke aus Blöcken, wobei es hier viele Methoden gibt und mein Lieblings
@@ -14,10 +16,9 @@ Hier sieht man wie es aussieht, wenn man sneaked.
  Beim *Fast Bridgen* ist es so, dass man diese Taste jetzt immer wieder mal loslässt, um schneller laufen zu können. Dadurch hat man das Risiko, herunterfallen
  zufallen, doch mit ein bisschen Übung geht die Wahrscheinlichkeit schnell runter. In diesem [Video](https://youtu.be/nusAbSaxtpU?t=52) sieht man diese Methode auf einem Übungs-server, der hauptsächlich
  fürs *Bridgen* gedacht ist.
- 
+ ## Verifikation
 Im Video haben sie gesehen, wie ich diese Technik erfolgreich ausgeführt habe.
-
+## Reflektion zum Arbeitsprozess
 Das Lernen dieser Technik lief ziemlich gut und schon nach ein paar Stunden konnte ich es. Sie ist sehr nützlich und ich würde es jedem empfehlen dies zulernen.
 Leider bin ich noch inkonsistent und falle oft runter.
-
 Um dieses Problem zu beheben, werde ich mich auch mal auf einen spezialisierten Bridging Server gehen und dies dort üben.
