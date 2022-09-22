@@ -22,7 +22,8 @@ angeschaut, aber keine konnte wirklich weiter helfen. Aus diesem Grund habe ich 
 ich benutzen könnte und es half wirklich. Das Hilfsystem, wie ich es nenne, zeigt mögliche Anwendungen an, die man benutzen kann. Als
 ich da nach Zeit-Anwendungen suchte, fand ich die Variable DateTime.
 
-*Bild
+<img width="316" alt="Screenshot 2022-09-22 095302" src="https://user-images.githubusercontent.com/111045844/191698139-b3a82cf1-cc11-4bda-822b-be096a3c83b1.png">
+
 
 Mit dieser Variable konnte ich die jetztige Zeit abfragen, womit ich auch meine Lösung kreierte. Ich las die Zeit am Anfang ab, wenn der
 Spieler seine erste Zahl eingab und am Schluss, wenn er die zufällig generierte Zahl herausfand. Dann musste ich diese zwei Zeiten nur noch
@@ -35,7 +36,8 @@ if (DateTime ende < DateTime rekord) {
 
 Am Ende wird diese Zeit auch angezeigt, dass dann so aussieht.
 
-*Gif
+![Alt Text]
+
 
 ## Verifikation
 
