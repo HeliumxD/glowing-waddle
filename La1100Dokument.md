@@ -28,7 +28,10 @@ Mit dieser Variable konnte ich die jetztige Zeit abfragen, womit ich auch meine 
 Spieler seine erste Zahl eingab und am Schluss, wenn er die zufällig generierte Zahl herausfand. Dann musste ich diese zwei Zeiten nur noch
 subtrahieren und schon hatte ich die Zeit, die er verbraucht hatte. Zu dem habe ich es noch so konstruiert, dass es die schnellste Zeit speichert.
 
-*CSharp
+```Csharp
+if (DateTime ende < DateTime rekord) {
+  rekord = ende };
+```
 
 Am Ende wird diese Zeit auch angezeigt, dass dann so aussieht.
 
