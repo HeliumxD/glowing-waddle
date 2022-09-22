@@ -36,7 +36,7 @@ if (DateTime ende < DateTime rekord) {
 
 Am Ende wird diese Zeit auch angezeigt, dass dann so aussieht.
 
-![Alt Text]
+//GIF
 
 
 ## Verifikation
