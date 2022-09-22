@@ -13,12 +13,12 @@ Ich habe gelernt, wie man die Zeit überprüfen kann und so die verbrauchte Zeit
 ## Beschreibung
 
 Ich habe ein Spiel programmiert, wo das Programm eine zufällige Zahl zwischen 1 und einer selbst gewählten Zahl generiert
-und man diese dann erraten muss. Dazu kamen dann noch ein paar features, doch eines war mir besonders wichtig. Die Zeit stellt erst
-das Gefühl dar, eine Herausforderung zuhaben. Die Anzahl versuche sind eher auf Glück basiert, wobei man bei der Zeit Schnelligkeit und
+und man diese dann erraten muss. Dazu kamen dann noch ein paar Features, doch eines war mir besonders wichtig. Die Zeit stellt erst
+das Gefühl dar, eine Herausforderung zu haben. Die Anzahl versuche sind eher auf Glück basiert, wobei man bei der Zeit Schnelligkeit und
 Geschicklichkeit unter Beweis stellen muss.
 
-Doch ich wusste nicht wie man die Zeit einliest und vergleichen kann oder sonst irgendetwas. Deshalb habe ich im Internet viele Seiten
-angeschaut, aber keine konnte wirklich weiter helfen. Aus diesem Grund habe ich das Hilfsystem benutzt, um vielleicht etwas zufinden was
+Doch ich wusste nicht, wie man die Zeit einliest und vergleichen kann oder sonst irgendetwas. Deshalb habe ich im Internet viele Seiten
+angeschaut, aber keine konnte wirklich weiterhelfen. Aus diesem Grund habe ich das Hilfsystem benutzt, um vielleicht etwas zu finden was
 ich benutzen könnte und es half wirklich. Das Hilfsystem, wie ich es nenne, zeigt mögliche Anwendungen an, die man benutzen kann. Als
 ich da nach Zeit-Anwendungen suchte, fand ich die Variable DateTime.
 
