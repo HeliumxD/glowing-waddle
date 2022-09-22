@@ -127,4 +127,3 @@ namespace Zufallszahl_Spiel
         }
     }
 }
-.
