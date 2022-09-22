@@ -36,7 +36,7 @@ if (DateTime ende < DateTime rekord) {
 
 Am Ende wird diese Zeit auch angezeigt, dass dann so aussieht.
 
-//GIF
+https://cdn.discordapp.com/attachments/1014560355931922463/1022440295771668571/ezgif.com-gif-maker.gif
 
 
 ## Verifikation
