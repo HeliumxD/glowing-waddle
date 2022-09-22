@@ -7,25 +7,43 @@ Ich habe ein Spiel mit C# programmiert, wo das Programm eine zufällige Zahl gen
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, wie man
+Ich habe gelernt, wie man die Zeit überprüfen kann und so die verbrauchte Zeit bei einem Spiel herausfinden kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Ich habe ein Spiel programmiert, wo das Programm eine zufällige Zahl zwischen 1 und einer selbst gewählten Zahl generiert
+und man diese dann erraten muss. Dazu kamen dann noch ein paar features, doch eines war mir besonders wichtig. Die Zeit stellt erst
+das Gefühl dar, eine Herausforderung zuhaben. Die Anzahl versuche sind eher auf Glück basiert, wobei man bei der Zeit Schnelligkeit und
+Geschicklichkeit unter Beweis stellen muss.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Doch ich wusste nicht wie man die Zeit einliest und vergleichen kann oder sonst irgendetwas. Deshalb habe ich im Internet viele Seiten
+angeschaut, aber keine konnte wirklich weiter helfen. Aus diesem Grund habe ich das Hilfsystem benutzt, um vielleicht etwas zufinden was
+ich benutzen könnte und es half wirklich. Das Hilfsystem, wie ich es nenne, zeigt mögliche Anwendungen an, die man benutzen kann. Als
+ich da nach Zeit-Anwendungen suchte, fand ich die Variable DateTime.
+
+*Bild
+
+Mit dieser Variable konnte ich die jetztige Zeit abfragen, womit ich auch meine Lösung kreierte. Ich las die Zeit am Anfang ab, wenn der
+Spieler seine erste Zahl eingab und am Schluss, wenn er die zufällig generierte Zahl herausfand. Dann musste ich diese zwei Zeiten nur noch
+subtrahieren und schon hatte ich die Zeit, die er verbraucht hatte. Zu dem habe ich es noch so konstruiert, dass es die schnellste Zeit speichert.
+
+*CSharp
+
+Am Ende wird diese Zeit auch angezeigt, dass dann so aussieht.
+
+*Gif
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im ersten Bild oben sieht man, wie ich herausgefunden habe, wie man die Zeit ablesen kann, da ich nichts im Internet finden konnte.
+Im Gif sieht man dann, wie es angezeigt wird, wenn man die Zahl erraten hat.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Arbeiten ging bei mir gut. Ich hatte keine technischen Probleme und da ich nicht nach Baden musste, konnte ich auch länger schlafen, die meine
+Motivation steigerte.
 
-👎 und etwas, was nicht gut lief.
+Dafür wurde ich immer sehr schnell abgelenkt, da ich direkt neben meinem PC arbeite.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Solange ich meinen PC ausgeschaltet lasse, sollte eigentlich auch nichts passieren können.
